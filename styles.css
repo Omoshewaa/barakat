@@ -1,0 +1,222 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.about{
+    list-style-type: none;
+}
+.contact{
+    text-decoration: none;
+    color: black;
+    margin-left: 40px;
+}
+.wave{
+    text-decoration: none;
+    color: black;
+    margin-left: 550px;
+}
+.watt{
+    text-decoration: none;
+    color: black;
+    margin-left: 40px;
+}
+.wax{
+   margin-bottom: 0px;
+}
+.marker{
+    display: flex;
+    padding: 10px 0;
+}
+.golden{
+    text-decoration: none;
+    color: black;
+    margin-left: 60px;
+}
+.gold{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+.dove{
+    margin-left: 80px;
+     padding-top: 20px;
+}
+.dope{
+    background-color: black;
+    width: 80px;
+    color: white;
+    border-radius: 3px;
+    margin-left: 20px;
+    text-decoration: none;
+    padding: 10px 30px;
+}
+.line{
+   color: blue;
+}
+.purpose{
+    display: flex;
+    padding: 20px 0;
+}
+.established{
+    padding: 40px;
+    margin-left: 80px;
+}
+.feak{
+    font-size: 40px;
+    margin-left: 60px;
+    margin-right: 80px;
+}
+.feek{
+    margin-left: 60px;
+    padding-top: 10px;
+}
+.flight{
+    margin-left: 60px;
+}
+.flavour{
+    margin-right: 200px;
+}
+.flake{
+    text-align: center;
+    margin-right: 70px;
+}
+.marble{
+    margin-left: 70px;
+    margin-right: 60px;
+}
+.flame{
+    margin-left: 70px;
+}
+.froze{
+ font-size: 25px;
+ margin-left: 470px;
+ margin-right: 450px;
+}
+.ways{
+    text-align: center;
+    margin-right: 70px;
+    padding: 30px 0;
+}
+.bold{
+font-size: 25px;
+}
+.baggy{
+    display: flex;
+    justify-content: center;
+}
+.landing{
+   margin-right: 40px;
+}
+.vanilla{
+   margin-right: 20px;
+}
+.van{
+ margin-right: 40px;
+}
+.boot{
+   font-size: 20px;
+   margin-right: 25px;
+}
+.nut{
+    margin-left: 10px;
+}
+.establishment{
+    padding: 60px;
+    margin-left: 100px;
+}
+.purp{
+    display: flex;
+    justify-content: center;
+}
+.sucket{
+    margin-left: 70px;
+    font-size: 25px;
+}
+.rite{
+    font-size: 30px;
+}
+.flow{
+    margin-left: 70px;
+    font-size: 25px;
+}
+
+.bamboo{
+     margin-top: 80px;
+}
+.flat{
+    margin-left: 70px;
+}
+.flet{
+    margin-left: 10px;
+}
+.flew{
+     margin-left: 100px;
+}
+.flee{
+    margin-left: 10px;
+}
+.bottle{
+    text-align: center;
+    padding: 40px;
+}
+.loop{
+ padding: 10px 30px;
+ margin-left: 410px;
+ text-align: left;
+}
+.short{
+  width: 700px;
+  color: black;
+}
+.tint{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius:  5px;
+    padding: 10px 20px;
+}
+#testimony{
+    background-color: lightblue; 
+}
+.meme{
+    margin-right: 200px;
+    margin-left: 60px;
+}
+.meme{
+     margin-left: 80px;
+     padding: 20px;
+}
+.ply{
+  margin-left: 80px;
+  padding: 20px;
+   margin-top: 20px;
+}
+.bounty{
+    margin-left: 100px;
+    margin-right: 200px;
+    margin-top: 0;
+}
+.support{
+margin-top: 45px;
+}
+.blurr{
+   margin-right: 100px;
+    color: black;
+    text-decoration: none;
+}
+.candle{
+    margin-right: 300px;
+     color: black;
+    text-decoration: none;
+}
+.hero{
+    padding-right: 180px;
+    color: black;
+    text-decoration: none;
+   
+}
+
+.ways{
+    margin-left: 80px;
+}
+
